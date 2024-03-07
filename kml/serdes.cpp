@@ -306,11 +306,13 @@ void SaveCategoryExtendedData(KmlWriter::WriterWrapper & writer, CategoryData co
     writer << "</mwm:author>\n";
   }
 
-  if (categoryData.m_lastModified != Timestamp())
-  {
-    writer << indent << "<mwm:lastModified>" << TimestampToString(categoryData.m_lastModified)
-           << "</mwm:lastModified>\n";
+  Timestamp lastModifiedTime;
+  if (categoryData.m_lastModified != Timestamp()) {
+    lastModifiedTime = categoryData.m_lastModified;
+  } else {
+    lastModifiedTime = kml::TimestampClock::now();
   }
+  writer << indent << "<mwm:lastModified>" << TimestampToString(lastModifiedTime) << "</mwm:lastModified>\n";
 
   double constexpr kEps = 1e-5;
   if (fabs(categoryData.m_rating) > kEps)
