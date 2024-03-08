@@ -3580,6 +3580,7 @@
     eu = Tenplua
     fa = گردشگری
     fi = Buddhalainen temppeli
+    fr = Temple bouddhiste
     hi = बौद्ध मंदिर
     hu = Templom
     id = Kuil
@@ -3729,13 +3730,14 @@
     az = Məbəd
     cs = Chrám
     da = Tempel
-    de = Hinduistischer Tempel
+    de = Hindutempel
     el = Ναός
     es = Templo hindú
     et = Tempel
     eu = Tenplua
     fa = گردشگری
     fi = Hindutemppeli
+    fr = Temple hindou
     hi = मन्दिर
     hu = Hindu templom
     id = Kuil
@@ -3879,14 +3881,14 @@
     az = Məbəd
     cs = Chrám
     da = Tempel
-    de = Tempel
+    de = Daoistischer Tempel
     el = Ναός
     es = Templo taoísta
     et = Tempel
     eu = Tenplua
     fa = گردشگری
     fi = Taolainen temppeli
-    fr = Temmple Taoïste
+    fr = Temple taoïste
     hi = ताओवादी मंदिर
     hu = Taoista templom
     id = Kuil
@@ -7924,7 +7926,7 @@
     et = Aafrika
     eu = Afrikako sukaldaritza
     fi = Afrikkalainen keittiö
-    fr = Cuisine africaine
+    fr = Africain
     he = מטבח אפריקאי
     hi = अफ्रीकी व्यंजन
     hu = Afrikai konyha
@@ -7961,7 +7963,7 @@
     et = Ameerika
     eu = Sukalde amerikarra
     fi = Amerikkalainen keittiö
-    fr = Cuisine américaine
+    fr = Américain
     he = מטבח אמריקאי
     hi = अमेरिकी व्यंजन
     hu = Amerikai konyha
@@ -7998,7 +8000,7 @@
     et = Araabia
     eu = Sukaldaritza arabiarra
     fi = Arabialainen keittiö
-    fr = Cuisine arabe
+    fr = Arabe
     he = מטבח ערבי
     hi = अरब व्यंजन
     hu = Arab konyha
@@ -8035,7 +8037,7 @@
     et = Argentiina
     eu = Argentinako sukaldaritza
     fi = Argentiinalainen keittiö
-    fr = Cuisine argentine
+    fr = Argentin
     he = מטבח ארגטינאי
     hi = अर्जेंटीना के व्यंजन
     hu = Argentin konyha
@@ -8072,7 +8074,7 @@
     et = Aasia
     eu = Asiar sukaldaritza
     fi = Aasialainen keittiö
-    fr = Cuisine asiatique
+    fr = Asiatique
     he = מטבח אסיאתי
     hi = एशियाई व्यंजन
     hu = Ázsiai és közel-keleti konyha
@@ -8109,7 +8111,7 @@
     et = Austria
     eu = Austriako sukaldaritza
     fi = Itävaltalainen keittiö
-    fr = Cuisine autrichienne
+    fr = Autrichien
     he = מטבח אוסטרי
     hi = ऑस्ट्रियाई व्यंजन
     hu = Osztrák konyha
@@ -8140,13 +8142,13 @@
     az = Simit
     cs = Bagel
     da = Bagels
-    de = Bagel
+    de = Bagels
     el = Κουλούρι
     es = Bágel
     et = Bagel
     eu = Bagel
     fi = Bagel
-    fr = Bagel
+    fr = Bagels
     he = בייגל
     hi = बैगल
     hu = Bagel
@@ -8183,7 +8185,7 @@
     et = Balkani
     eu = Balkanetako sukaldaritza
     fi = Balkanilainen keittiö
-    fr = Cuisine des Balkans
+    fr = Balkanique
     he = מטבח בלקני
     hi = बाल्कन व्यंजन
     hu = Balkáni konyha
@@ -8258,7 +8260,7 @@
     et = Baieri
     eu = Bavariako sukaldaritza
     fi = Baijerilainen keittiö
-    fr = Cuisine bavaroise
+    fr = Bavarois
     he = מטבח של בוואריה
     hi = बवेरियन व्यंजन
     hu = Bajor konyha
@@ -8295,7 +8297,7 @@
     et = Veiseliha kauss
     eu = Gyudon
     fi = Naudanlihakulho
-    fr = Donburi de bœuf
+    fr = Gyūdon
     he = קערת בשר בקר
     hu = Gyúdon
     id = Nasi daging sapi
@@ -8331,7 +8333,7 @@
     et = Brasiilia
     eu = Brasilgo sukaldaritza
     fi = Brasilialainen keittiö
-    fr = Cuisine brésilienne
+    fr = Brésilien
     he = מטבח ברזילאי
     hi = ब्राजील के व्यंजन
     hu = Brazil konyha
@@ -8402,6 +8404,7 @@
     et = Mullitee
     eu = Burbuila tea
     fi = Kuplatee
+    fr = Bubble tea
     hi = बुलबुले वाली चाय
     it = Bubble tea
     ro = Ceai cu perle
@@ -8535,7 +8538,7 @@
     et = Kariibi
     eu = Karibeko sukaldaritza
     fi = Karibialainen keittiö
-    fr = Cuisine des Caraïbes
+    fr = Caraïbe
     he = מטבח קריבי
     hi = कैरेबियन व्यंजन
     hu = Karibi konyha
@@ -8610,7 +8613,7 @@
     et = Hiina
     eu = Txinako sukaldaritza
     fi = Kiinalainen keittiö
-    fr = Cuisine chinoise
+    fr = Chinois
     he = מטבח סיני
     hi = चीनी व्यंजन
     hu = Kínai konyha
@@ -8724,7 +8727,7 @@
     et = Horvaatia
     eu = Sukaldaritza croata
     fi = Kroatialainen keittiö
-    fr = Cuisine croate
+    fr = Croate
     he = מטבח קרואטי
     hi = क्रोएशियाई व्यंजन
     hu = Horvát konyha
@@ -8913,7 +8916,7 @@
     et = Etioopia
     eu = Etiopiako sukaldaritza
     fi = Etiopialainen keittiö
-    fr = Cuisine éthiopienne
+    fr = Éthiopien
     he = מטבח אתיופי
     hi = इथियोपियाई व्यंजन
     hu = Etióp konyha
@@ -8950,7 +8953,7 @@
     et = Filipiinide
     eu = Filipinetako sukaldaritza
     fi = Filippiiniläinen keittiö
-    fr = Cuisine philippine
+    fr = Philippin
     he = מטבח פיליפיני
     hi = फिलिपिनो व्यंजन
     hu = Filippínó konyha
@@ -9094,7 +9097,7 @@
     et = Prantsuse
     eu = Frantziako sukaldaritza
     fi = Ranskalainen keittiö
-    fr = Cuisine française
+    fr = Français
     he = מטבח צרפתי
     hi = फ्रेंच रसोई
     hu = Francia konyha
@@ -9168,7 +9171,7 @@
     et = Gruusia
     eu = Georgiako sukaldaritza
     fi = Georgialainen keittiö
-    fr = Cuisine géorgienne
+    fr = Géorgien
     he = מטבח גיאורגי
     hi = जॉर्जियाई रसोई
     hu = Grúz konyha
@@ -9205,7 +9208,7 @@
     et = Saksa
     eu = Alemaniar sukaldaritza
     fi = Saksalainen keittiö
-    fr = Cuisine allemande
+    fr = Allemand
     he = מטבח גרמני
     hi = जर्मन व्यंजन
     hu = Német konyha
@@ -9242,7 +9245,7 @@
     et = Kreeka
     eu = Greziar sukaldaritza
     fi = Kreikkalainen keittiö
-    fr = Cuisine grecque
+    fr = Grec
     he = מטבח יווני
     hi = ग्रीक व्यंजन
     hu = Görög konyha
@@ -9388,7 +9391,7 @@
     et = Ungari
     eu = Hungariako sukaldaritza
     fi = Unkarilainen keittiö
-    fr = Cuisine hongroise
+    fr = Hongrois
     he = מטבח הונגרי
     hi = हंगेरियन व्यंजन
     hu = Magyar konyha
@@ -9425,7 +9428,7 @@
     et = Jäätis
     eu = Izozkiak
     fi = Jäätelö
-    fr = Crème glacée
+    fr = Glace
     he = גלידה
     hi = आइसक्रीम
     hu = Jégkrém
@@ -9463,7 +9466,7 @@
     et = India
     eu = Indiako sukaldaritza
     fi = Intialainen keittiö
-    fr = Cuisine indienne
+    fr = Indien
     he = מטבח הודי
     hi = भारतीय क्विजिन
     hu = Indiai konyha
@@ -9501,7 +9504,7 @@
     et = Indoneesia
     eu = Indonesiako sukaldaritza
     fi = Indonesialainen keittiö
-    fr = Cuisine indonésienne
+    fr = Indonésien
     he = מטבח אינדונזי
     hi = इंडोनेशियाई व्यंजन
     hu = Indonéz konyha
@@ -9576,7 +9579,7 @@
     et = Iiri
     eu = Irlandar sukaldaritza
     fi = Irlantilainen keittiö
-    fr = Cuisine irlandaise
+    fr = Irlandais
     he = מטבח אירי
     hi = आयरिश व्यंजन
     hu = Ír konyha
@@ -9613,7 +9616,7 @@
     et = Itaalia
     eu = Italiako sukaldaritza
     fi = Italialainen keittiö
-    fr = Cuisine italienne
+    fr = Italien
     he = מטבח איטלקי
     hi = इतालवी व्यंजन
     hu = Olasz konyha
@@ -9651,7 +9654,7 @@
     et = Itaalia, pizza
     eu = Italiako sukaldaritza, pizza
     fi = Italialainen, pizza
-    fr = Pizza italienne
+    fr = Italien, pizza
     he = מטבח איטלקי;פיצה
     hi = पिज़्ज़ा
     hu = Olasz konyha, pizza
@@ -9689,7 +9692,7 @@
     et = Jaapani
     eu = Japoniako sukaldaritza
     fi = Japanilainen keittiö
-    fr = Cuisine japonaise
+    fr = Japonais
     he = מטבח יפני
     hi = जापानी भोजन
     hu = Japán konyha
@@ -9764,7 +9767,7 @@
     et = Korea
     eu = Koreako sukaldaritza
     fi = Korealainen keittiö
-    fr = Cuisine coréenne
+    fr = Coréen
     he = מטבח קוריאני
     hi = कोरियाई व्यंजन
     hu = Koreai konyha
@@ -9801,7 +9804,7 @@
     et = Lao
     eu = Laosko sukaldaritza
     fi = Laosilainen keittiö
-    fr = Cuisine laotienne
+    fr = Laotien
     he = מטבח לאו
     hi = लाओ व्यंजन
     hu = Laoszi konyha
@@ -9838,7 +9841,7 @@
     et = Liibanoni
     eu = Libanoko sukaldaritza
     fi = Libanonilainen keittiö
-    fr = Cuisine libanaise
+    fr = Libanais
     he = מטבח לבנוני
     hi = लेबनानी व्यंजन
     hu = Libanoni konyha
@@ -9913,7 +9916,7 @@
     et = Madagaskari
     eu = Malgaxeko sukaldaritza
     fi = Madagaskarilainen keittiö
-    fr = Cuisine malgache
+    fr = Malgache
     he = מלגאסי
     hi = मालागासी व्यंजन
     hu = Madagaszkári konyha
@@ -9950,7 +9953,7 @@
     et = Malaisia
     eu = Malay sukaldaritza
     fi = Malesialainen keittiö
-    fr = Cuisine malaisienne
+    fr = Malaisien
     he = מטבח מלזי
     hi = मलेशियाई व्यंजन
     hu = Maláj konyha
@@ -9987,7 +9990,7 @@
     et = Vahemere
     eu = Sukaldaritza mediterraneoa
     fi = Välimeren keittiö
-    fr = Cuisine méditerranéenne
+    fr = Méditerranéen
     he = מטבח ים-תיכוני
     hi = भूमध्य व्यंजन
     hu = Mediterrán konyha
@@ -10025,7 +10028,7 @@
     et = Mehhiko
     eu = Mexikoko sukaldea
     fi = Meksikolainen keittiö
-    fr = Cuisine mexicaine
+    fr = Mexicain
     he = מטבח מקסיקני
     hi = मैक्सिकन व्यंजन
     hu = Mexikói konyha
@@ -10062,7 +10065,7 @@
     et = Maroko
     eu = Marokoko sukaldaritza
     fi = Marokkolainen keittiö
-    fr = Cuisine marocaine
+    fr = Marocain
     he = מטבח מרוקאי
     hi = मोरक्कन व्यंजन
     hu = Marokkói konyha
@@ -10174,7 +10177,7 @@
     et = Pannkook
     eu = Krepeak
     fi = Lettu
-    fr = Crêpe
+    fr = Pancakes
     he = פנקייק
     hi = पैनकेक
     hu = Palacsinta
@@ -10249,7 +10252,7 @@
     et = Pärsia
     eu = Persiar sukaldaritza
     fi = Persialainen keittiö
-    fr = Cuisine persane
+    fr = Persan
     he = מטבח פרסי
     hi = फारसी व्यंजन
     hu = Perzsa konyha
@@ -10286,7 +10289,7 @@
     et = Peruuvia
     eu = Peruko sukaldaritza
     fi = Perulainen keittiö
-    fr = Cuisine péruvienne
+    fr = Péruvien
     he = מטבח פרואני
     hi = पेरू के व्यंजन
     hu = Perui konyha
@@ -10361,7 +10364,7 @@
     et = Poola
     eu = Poloniar sukaldaritza
     fi = Puolalainen keittiö
-    fr = Cuisine polonaise
+    fr = Polonais
     he = מטבח פולני
     hi = पोलिश व्यंजन
     hu = Lengyel konyha
@@ -10398,7 +10401,7 @@
     et = Portugali
     eu = Portugalgo sukaldaritza
     fi = Portugalilainen keittiö
-    fr = Cuisine portugaise
+    fr = Portugais
     he = מטבח פורטוגלי
     hi = पुर्तगाली व्यंजन
     hu = Portugál konyha
@@ -10509,7 +10512,7 @@
     et = Vene
     eu = Errusiar sukaldaritza
     fi = Venäläinen keittiö
-    fr = Cuisine russe
+    fr = Russe
     he = מטבח רוסי
     hi = रूसी व्यंजन
     hu = Orosz konyha
@@ -10622,7 +10625,7 @@
     et = Soolased pannkoogid
     eu = Krepe gaziak
     fi = Suolaiset letut
-    fr = Crêpes salées
+    fr = Pancakes salés
     he = חביתיות טעימות
     hi = दिलकश पेनकेक्स
     hu = Sós palacsinta
@@ -10734,7 +10737,7 @@
     et = Hispaania
     eu = Espainiako Sukaldaritza
     fi = Espanjalainen keittiö
-    fr = Cuisine espagnole
+    fr = Espagnol
     he = מטבח ספרדי
     hi = स्पेनिश व्यंजन
     hu = Spanyol konyha
@@ -10920,7 +10923,7 @@
     et = Tai
     eu = Thai sukaldaritza
     fi = Thaimaalainen keittiö
-    fr = Cuisine thaï
+    fr = Thaï
     he = מטבח תאילנדי
     hi = थाई पकवान
     hu = Thai konyha
@@ -10957,7 +10960,7 @@
     et = Türgi
     eu = Turkiar sukaldaritza
     fi = Turkkilainen keittiö
-    fr = Cuisine turque
+    fr = Turque
     he = מטבח תורכי
     hi = तुर्की व्यंजन
     hu = Török konyha
@@ -10994,7 +10997,7 @@
     et = Vegan
     eu = Sukaldaritza beganoa
     fi = Vegaanikeittiö
-    fr = Cuisine végétalienne
+    fr = Végétalien
     he = מטבח טבעוני
     hi = शाकाहारी
     hu = Vegán konyha
@@ -11031,7 +11034,7 @@
     et = Taimetoit
     eu = Sukaldaritza begetarianoa
     fi = Kasviskeittiö
-    fr = Cuisine végétarienne
+    fr = Végétarien
     he = מטבח צמחוני
     hi = शाकाहारी
     hu = Vegetáriánus konyha
@@ -11069,7 +11072,7 @@
     et = Vietnami
     eu = Vietnamgo sukaldaritza
     fi = Vietnamilainen keittiö
-    fr = Cuisine vietnamienne
+    fr = Vietnamien
     he = מטבח וייטנאמי
     hi = वियतनामी व्यंजन
     hu = Vietnami konyha
