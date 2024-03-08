@@ -4393,7 +4393,7 @@
     et = Hei, vaata minu hetkeasukohta Organic Maps kaardil! %1$@ või %2$@ Võrguühenduseta kaardid puuduvad? Lae siit: https://omaps.app/get
     eu = Ikusi nire uneko kokapena Organic Maps-en! %1$@ edo %2$@ Ez al duzu lineaz kanpoko maparik? Deskargatu hemendik: https://omaps.app/get
     fi = Hei, katso sijaintini Organic Maps-sovelluksessa! %1$@ tai %2$@ Eikö sinulla ole vielä offline-karttoja? Lataa ne täältä: https://omaps.app/get
-    fr = Hé, regardez ma position actuelle sur Organic Maps ! %1$@ ou %2$@. Les cartes hors ligne ne sont pas installées ? Les télécharger ici : https://omaps.app/get
+    fr = Hé, voici ma position actuelle sur Organic Maps ! %1$@ ou %2$@. Les cartes hors ligne ne sont pas installées ? Les télécharger ici : https://omaps.app/get
     he = קבלו את המיקום שלי ב-Organic Maps!\n%1$@ או %2$@\nאין לך מפות בלי אינטרנט? להוריד כאן: https://omaps.app/get
     hi = ऑर्गेनिक मानचित्र में मेरा वर्तमान स्थान देखें! %1$@ या %2$@ के पास ऑफ़लाइन मानचित्र नहीं हैं? यहां डाउनलोड करें: https://omaps.app/get
     hu = Nézd meg a Organic Maps helyzetemet! %1$@ vagy %2$@ A program letöltése: https://omaps.app/get
@@ -4437,7 +4437,7 @@
     et = Hei, vaata minu asukoha märget Organic Maps kaardil!
     eu = Begiratu nire markagailua Organic Maps mapan!
     fi = Hei, katso merkintäni Organic Maps-kartalla!
-    fr = Hé, regardez mon signet sur la carte Organic Maps !
+    fr = Hé, voici mon signet sur la carte Organic Maps !
     he = היי, בדוק את הסיכה שלי במפה של Organic Maps!
     hi = अरे, ऑर्गेनिक मैप्स में मेरा पिन देखें!
     hu = Nézze meg a Organic Maps jelzőmet
@@ -4481,7 +4481,7 @@
     et = Hei, vaata minu hetkeasukohta Organic Maps kaardil!
     eu = Ikusi nire uneko kokapena Organic Maps mapan!
     fi = Hei, kurkkaa tämänhetkinen sijaintini Organic Maps:n kartalla!
-    fr = Hé, regardez ma position actuelle sur la carte Organic Maps !
+    fr = Hé, voici ma position actuelle sur la carte Organic Maps !
     he = היי, בדקו את המיקום הנוכחי שלי במפה של Organic Maps!
     hi = अरे, ऑर्गेनिक मैप मानचित्र पर मेरा वर्तमान स्थान देखें!
     hu = Nézze meg a helyzetemet a Organic Maps térképen!
@@ -12698,7 +12698,7 @@
     eu = Orain itxita
     fa = اکنون تعطیل است
     fi = Suljettu nyt
-    fr = Fermé actuellement
+    fr = Fermé
     he = סגור כעת
     hu = Most zárva
     id = Sekarang Tutup
@@ -13035,7 +13035,7 @@
     et = Avatakse %@ jooksul
     eu = %@ barru irekiko da
     fi = Avautuu %@ kuluttua
-    fr = Ouvert dans %@
+    fr = Ouvre dans %@
     he = נפתח עוד %@
     it = Apre tra %@
     ja = あと %@ に営業
@@ -13092,7 +13092,7 @@
     et = Suletakse %@ jooksul
     eu = %@ barru itxiko da
     fi = Sulkeutuu %@ kuluttua
-    fr = Fermé dans %@
+    fr = Ferme dans %@
     he = נסגר עוד %@
     hi = %@ में बंद हो जाता है
     it = Chiude tra %@
